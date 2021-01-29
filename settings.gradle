@@ -1,0 +1,3 @@
+include ':linearalgebra'
+include ':app'
+rootProject.name = "KotlinMatrix"
